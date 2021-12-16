@@ -16,7 +16,7 @@
   * 2등 하게 됨
 
 * MaybeBossRaid
-	* 동아리 2 - 최종 성과물로 개발될 보스 레이드에 멀티플레이어를 곁들인
+	* 동아리 2차 성과물로 개발된 보스 레이드에 멀티플레이어를 곁들인
   * 10등 하게 됨
 
 * SeonHanClass
@@ -26,5 +26,13 @@
 * FPS_Base
 	* 뭔가 하다가 이건아니다 하고 갈아 엎게 됨
 	* 유니티조합 리포에 SDLU_Shooting 으로 대채되었다.
+
+### 2021년 2학기
+* SDLU_Shooting
+* SDLU_Shooting_Again
+* SDLU_Shooting_Server
+    * 동아리 3차 성과물로 개발된 우주 배경 FPS
+  * 1등함
+        *아주 나이스*
 
 * * *
